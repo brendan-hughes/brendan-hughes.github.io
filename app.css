@@ -1,0 +1,43 @@
+* {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 1.2;
+}
+
+.title, h3 {
+    font-weight: 700;
+    text-align: center;
+}
+h3 {
+    text-decoration: underline;
+}
+
+body {
+    background: rgb(19, 27, 51);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding-top: 5px; 
+}
+.links {
+    list-style-type: none;
+    padding: 0;
+}
+
+div {
+    margin:auto;
+    text-align:center;
+    padding-top:20px;
+}
+
+hr {
+    width:30%;
+    border-top: 1px solid #f1f1f1;
+    opacity: 0.1;
+}
+
+
